@@ -24,9 +24,9 @@ The general objective of this study is to identify the optimal crop type/s to be
 - Evaluate the accuracy and effectiveness of the different machine learning models in forecasting crop production, using appropriate performance metrics.
 
 ### Data Description
-The data used in this project includes historical records of **palay** and **corn production** in the five provinces of Western Visayas (Aklan, Antique, Capiz, Guimaras, and Iloilo). The dataset contains information on area harvested and volume of productions, along with the corresponding time.
+The data used in this project includes historical records of **palay** and **corn production** in the five provinces of Western Visayas (Aklan, Antique, Capiz, Guimaras, and Iloilo). The dataset contains information on production volumes, area harvested, and yield, along with the corresponding time period.
 
 ### Contributors
-- Manejo, Kzlyr Shaira
-- Pajarilla, Gliezel Ann
-- Vito, Ma. Christina Kane
+Manejo, Kzlyr Shaira
+Pajarilla, Gliezel Ann
+Vito, Ma. Chritina Kane
